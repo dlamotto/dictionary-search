@@ -1,0 +1,10 @@
+name: 'Example text file'
+description: 'A text file used to create a dictionary'
+contributors:
+- name: 'Professor Ming Ching Chang of University at Albany'
+data:
+- name: 'tect file containing a story'
+  description: 'text file
+  format: 'txt'
+  path: 'dataset/stories.txt'
+  size: '211KB'
